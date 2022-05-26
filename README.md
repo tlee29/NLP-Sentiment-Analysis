@@ -1,4 +1,4 @@
-# PROJECT-1 Pre-war predictions on Ukraine-Russia War
+# PROJECT-1 Pre-War Predictions on Ukraine-Russia War
 
 The dataset I used was publicly published from Kaggle. 
 Ukraine Conflict Twitter Dataset (Kaggle):
