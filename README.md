@@ -1,4 +1,4 @@
-# PROJECT-1 Pre-War Predictions on Ukraine-Russia War
+# Sentiment Analysis over Ukraine vs Russian War
 
 The dataset I used was publicly published from Kaggle. 
 Ukraine Conflict Twitter Dataset (Kaggle):
